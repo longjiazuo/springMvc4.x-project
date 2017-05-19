@@ -1,2 +1,58 @@
 # springMvc4.x-learning
-springMvc4.x学习总结Demo
+springMvc4.x整理总结样例,在每篇文章后面有对应源代码地址链接。<br>
+
+#### springMvc4.x系列教程<br>
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning" target="_blank">https://github.com/longjiazuo/springMvc4.x-learning <br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/category/code_language/spring4.x" target="_blank">Spring4.x系列教程</a><br>
+
+#### SpringMvc4.x基础(一):Spring MVC项目快速搭建
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-quickStart" target="_blank">springMvc4.x-quickStart</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1389" target="_blank">SpringMvc4.x基础(一):Spring MVC项目快速搭建</a><br>
+
+#### SpringMvc4.x基础(二):Spring MVC的常用注解
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-annotation" target="_blank">springMvc4.x-annotation</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1411" target="_blank">SpringMvc4.x基础(二):Spring MVC的常用注解</a><br>
+
+#### SpringMvc4.x基本配置(一):静态资源映射
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-staticResources" target="_blank">springMvc4.x-staticResources</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1426" target="_blank">SpringMvc4.x基本配置(一):静态资源映射</a><br>
+
+#### SpringMvc4.x基本配置(二):拦截器配置
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-interceptors" target="_blank">springMvc4.x-interceptors</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1434" target="_blank">SpringMvc4.x基本配置(二):拦截器配置</a><br>
+
+#### SpringMvc4.x基本配置(三):@ControllerAdvice注解
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-advice" target="_blank">springMvc4.x-advice</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1443" target="_blank">SpringMvc4.x基本配置(三):@ControllerAdvice注解</a><br>
+
+#### SpringMvc4.x基本配置(四):快捷的ViewController
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-viewController" target="_blank">springMvc4.x-viewController</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1458" target="_blank">SpringMvc4.x基本配置(四):快捷的ViewController</a><br>
+
+#### SpringMvc4.x基本配置(五):路径匹配参数配置
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-pathMatchParameter" target="_blank">springMvc4.x-pathMatchParameter</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1462" target="_blank">SpringMvc4.x基本配置(五):路径匹配参数配置</a><br>
+
+### SpringMvc4.x高级配置(一):文件上传配置
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-fileUpload" target="_blank">springMvc4.x-fileUpload</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1471" target="_blank">SpringMvc4.x高级配置(一):文件上传配置</a><br>
+
+### SpringMvc4.x高级配置(二):自定义HttpMessageConverter
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-httpMessageConverter" target="_blank">springMvc4.x-httpMessageConverter</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1479" target="_blank">SpringMvc4.x高级配置(二):自定义HttpMessageConverter/a><br>
+
+### SpringMvc4.x高级配置(三):服务器端推送技术之SSE
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-serverSendEvent" target="_blank">springMvc4.x-serverSendEvent</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1489" target="_blank">SpringMvc4.x高级配置(三):服务器端推送技术之SSE</a><br>
+
+### SpringMvc4.x高级配置(四):服务器端推送技术之Servlet3.0+异步方法处理
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-servlet3" target="_blank">springMvc4.x-servlet3</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1498" target="_blank">SpringMvc4.x高级配置(四):服务器端推送技术之Servlet3.0+异步方法处理</a><br>
+
+### SpringMvc4.x高级配置(五):Spring MVC的测试
+项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-test" target="_blank">springMvc4.x-test</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1505" target="_blank">SpringMvc4.x高级配置(五):Spring MVC的测试</a><br>
+
+### 附录:
+更多内容请阅读我的博客：
+<a href="http://blog.longjiazuo.com/" target="_blank">http://blog.longjiazuo.com/

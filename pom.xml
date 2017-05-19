@@ -19,6 +19,7 @@
     <module>springMvc4.x-httpMessageConverter</module>
     <module>springMvc4.x-serverSendEvent</module>
     <module>springMvc4.x-servlet3</module>
+    <module>springMvc4.x-test</module>
   </modules>
 	<properties>
 		<!-- Generic properties -->
