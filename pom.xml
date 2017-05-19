@@ -10,6 +10,7 @@
 	<modules>
 		<module>springMvc4.x-quickStart</module>
     <module>springMvc4.x-annotation</module>
+    <module>springMvc4.x-staticResources</module>
   </modules>
 	<properties>
 		<!-- Generic properties -->

@@ -17,10 +17,8 @@ public class WebInitializer implements WebApplicationInitializer {// ①
 		ctx.register(MyMvcConfig.class);
 		ctx.setServletContext(servletContext); // ②
 
-		Dynamic servlet = servletContext.addServlet("dispatcher",
-				new DispatcherServlet(ctx)); // 3
+		Dynamic servlet = servletContext.addServlet("dispatcher",new DispatcherServlet(ctx)); // ③
 		servlet.addMapping("/");
 		servlet.setLoadOnStartup(1);
-		servlet.setAsyncSupported(true);// ①
 	}
 }
