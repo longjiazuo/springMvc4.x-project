@@ -8,12 +8,11 @@
 		<artifactId>springMvc4.x-learning</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>springMvc4.x-annotation</artifactId>
+	<artifactId>springMvc4.x-advice</artifactId>
 	<packaging>war</packaging>
-	<name>springMvc4.x-annotation</name>
+	<name>springMvc4.x-advice</name>
 	<url>http://blog.longjiazuo.com</url>
 	<dependencies>
-		<!--对json和xml格式的支持 -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.dataformat</groupId>
 			<artifactId>jackson-dataformat-xml</artifactId>
@@ -21,6 +20,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>springMvc4.x-annotation</finalName>
+		<finalName>springMvc4.x-advice</finalName>
 	</build>
 </project>

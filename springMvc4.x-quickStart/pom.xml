@@ -10,8 +10,8 @@
   <groupId>springMvc4.x-quickStart</groupId>
   <artifactId>springMvc4.x-quickStart</artifactId>
   <packaging>war</packaging>
-  <name>springMvc4.x-quickStart Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <name>springMvc4.x-quickStart</name>
+  <url>http://blog.longjiazuo.com</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
