@@ -11,6 +11,7 @@
 		<module>springMvc4.x-quickStart</module>
     <module>springMvc4.x-annotation</module>
     <module>springMvc4.x-staticResources</module>
+    <module>springMvc4.x-interceptors</module>
   </modules>
 	<properties>
 		<!-- Generic properties -->
