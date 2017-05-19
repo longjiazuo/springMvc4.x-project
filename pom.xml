@@ -15,6 +15,7 @@
     <module>springMvc4.x-advice</module>
     <module>springMvc4.x-viewController</module>
     <module>springMvc4.x-pathMatchParameter</module>
+    <module>springMvc4.x-fileUpload</module>
   </modules>
 	<properties>
 		<!-- Generic properties -->
