@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>springMvc4.x-learning</groupId>
+		<artifactId>springMvc4.x-learning</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>springMvc4.x-annotation</artifactId>
+	<packaging>war</packaging>
+	<name>springMvc4.x-annotation Maven Webapp</name>
+	<url>http://blog.longjiazuo.com</url>
+	<dependencies>
+		<!--对json和xml格式的支持 -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.dataformat</groupId>
+			<artifactId>jackson-dataformat-xml</artifactId>
+			<version>2.5.3</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<finalName>springMvc4.x-annotation</finalName>
+	</build>
+</project>
