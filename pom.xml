@@ -16,6 +16,7 @@
     <module>springMvc4.x-viewController</module>
     <module>springMvc4.x-pathMatchParameter</module>
     <module>springMvc4.x-fileUpload</module>
+    <module>springMvc4.x-httpMessageConverter</module>
   </modules>
 	<properties>
 		<!-- Generic properties -->
