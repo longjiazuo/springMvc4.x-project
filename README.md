@@ -3,7 +3,7 @@ springMvc4.x整理总结样例,在每篇文章后面有对应源代码地址链�
 
 #### springMvc4.x系列教程<br>
 项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning" target="_blank">https://github.com/longjiazuo/springMvc4.x-learning <br>
-文章地址：<a href="http://blog.longjiazuo.com/archives/category/code_language/spring4.x" target="_blank">Spring4.x系列教程</a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/category/code_language/springMvc4.x" target="_blank">springMvc4.x系列教程</a><br>
 
 #### SpringMvc4.x基础(一):Spring MVC项目快速搭建
 项目工程：<a href="https://github.com/longjiazuo/springMvc4.x-learning/tree/master/springMvc4.x-quickStart" target="_blank">springMvc4.x-quickStart</a><br>
