@@ -18,6 +18,7 @@
     <module>springMvc4.x-fileUpload</module>
     <module>springMvc4.x-httpMessageConverter</module>
     <module>springMvc4.x-serverSendEvent</module>
+    <module>springMvc4.x-servlet3</module>
   </modules>
 	<properties>
 		<!-- Generic properties -->
