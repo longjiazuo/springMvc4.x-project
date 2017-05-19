@@ -13,6 +13,7 @@
     <module>springMvc4.x-staticResources</module>
     <module>springMvc4.x-interceptors</module>
     <module>springMvc4.x-advice</module>
+    <module>springMvc4.x-viewController</module>
   </modules>
 	<properties>
 		<!-- Generic properties -->
