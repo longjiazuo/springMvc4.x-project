@@ -4,8 +4,8 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>springMvc4.x-learning</groupId>
-		<artifactId>springMvc4.x-learning</artifactId>
+		<groupId>org.light4j</groupId>
+		<artifactId>springMvc4.x-project</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>springMvc4.x-pathMatchParameter</artifactId>
