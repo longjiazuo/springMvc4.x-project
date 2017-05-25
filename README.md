@@ -52,7 +52,7 @@ Github项目地址：<a href="https://github.com/longjiazuo/springMvc4.x-project
 #### SpringMvc4.x高级配置(二):自定义HttpMessageConverter
 Github项目地址：<a href="https://github.com/longjiazuo/springMvc4.x-project/tree/master/springMvc4.x-httpMessageConverter" target="_blank">springMvc4.x-httpMessageConverter</a><br>
 码云项目地址：<a href="http://git.oschina.net/longshiy/springMvc4.x-project/tree/master/springMvc4.x-httpMessageConverter" target="_blank">springMvc4.x-httpMessageConverter</a><br>
-文章地址：<a href="http://blog.longjiazuo.com/archives/1479" target="_blank">SpringMvc4.x高级配置(二):自定义HttpMessageConverter/a><br>
+文章地址：<a href="http://blog.longjiazuo.com/archives/1479" target="_blank">SpringMvc4.x高级配置(二):自定义HttpMessageConverter</a><br>
 
 #### SpringMvc4.x高级配置(三):服务器端推送技术之SSE
 Github项目地址：<a href="https://github.com/longjiazuo/springMvc4.x-project/tree/master/springMvc4.x-serverSendEvent" target="_blank">springMvc4.x-serverSendEvent</a><br>
