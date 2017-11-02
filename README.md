@@ -1,4 +1,4 @@
-# springMvc4.x-project【已完结】
+# springMvc4.x-project
 springMvc4.x整理总结样例,在每篇文章后面有对应源代码地址链接。<br>
 
 #### springMvc4.x系列教程<br>
